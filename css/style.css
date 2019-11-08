@@ -22,12 +22,18 @@ a{
 a:hover{
   text-decoration: none;
 }
+.content-wrap{
+  width: 900px;
+  margin: 0px auto;
+}
+
 /* Profile
 --------------------------------------*/
 header{
   background: #2F3061;
   color: #f7fff7;
 }
+
 /* Projects
 --------------------------------------*/
 .projects{
@@ -46,13 +52,16 @@ header{
 .projects .btn:hover{
   background: rgba(47, 48, 97, 80%);
 }
+
 /* Work Experience
 --------------------------------------*/
 .work-experience{
   background: #a1c6d7;
 }
+
 /* Education
 --------------------------------------*/
+
 /* Contact Info
 --------------------------------------*/
 footer{
